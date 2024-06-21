@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 166.67 166.17" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g transform="translate(-289.66 -336.42)">
+  <g transform="matrix(2.3116 0 0 2.3116 1105.7 -172.91)">
+   <g id="a" transform="matrix(.28897 .15803 -.15803 .28897 -418.54 112.65)" fill="#ff0">
+    <path d="m421.08 245.77c-16.19-0.53-39.426-4.1366-49.886-20.807 25.86 5.76 28.307-1.2616 48.207-2.0616" fill="#ff0"/>
+   </g>
+   <use id="k" transform="matrix(.86593 .50016 -.50016 .86593 85.707 192.82)" width="1052.3622" height="744.09448" fill="#ffff00" xlink:href="#a"/>
+   <use id="l" transform="matrix(.8641 .50333 -.50333 .8641 85.939 194.3)" width="1052.3622" height="744.09448" fill="#ffff00" xlink:href="#k"/>
+   <use id="m" transform="matrix(.86153 .50771 -.50771 .86153 86.247 196.34)" width="1052.3622" height="744.09448" fill="#ffff00" xlink:href="#l"/>
+   <use id="n" transform="matrix(.86329 .50471 -.50471 .86329 86.035 194.94)" width="1052.3622" height="744.09448" fill="#ffff00" xlink:href="#m"/>
+   <use id="o" transform="matrix(.86783 .49687 -.49687 .86783 85.467 191.29)" width="1052.3622" height="744.09448" fill="#ffff00" xlink:href="#n"/>
+   <use id="p" transform="matrix(.86656 .49907 -.49907 .86656 85.626 192.32)" width="1052.3622" height="744.09448" fill="#ffff00" xlink:href="#o"/>
+   <use id="q" transform="matrix(.86743 .49756 -.49756 .86743 85.516 191.61)" width="1052.3622" height="744.09448" fill="#ffff00" xlink:href="#p"/>
+   <use id="r" transform="matrix(.86784 .49685 -.49685 .86784 85.465 191.29)" width="1052.3622" height="744.09448" fill="#ffff00" xlink:href="#q"/>
+   <use id="s" transform="matrix(.86696 .49837 -.49837 .86696 85.572 191.99)" width="1052.3622" height="744.09448" fill="#ffff00" xlink:href="#r"/>
+   <use transform="matrix(.87057 .49205 -.49205 .87057 85.098 189.06)" width="1052.3622" height="744.09448" fill="#ffff00" xlink:href="#s"/>
+   <use transform="matrix(.85903 -.51193 .51193 .85903 -176.06 -126.26)" width="2104.9355" height="2687.1746" fill="#ffff00" xlink:href="#a"/>
+   <path d="m-316.86 237.17c10.589 0 19.189 8.6003 19.189 19.189s-8.6003 19.181-19.189 19.181-19.181-8.5927-19.181-19.181c0-10.589 8.5927-19.189 19.181-19.189z" fill="#ff0" stroke="#fff" stroke-width="2.7624"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000;
+}
+
+#game-container {
+    width: 1200px; /* 800px for the game, 400px for the UI */
+    height: 600px;
+    background-color: #222; /* Dark shade for the surrounding area */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #fff; /* Border around the game area */
+}
